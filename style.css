@@ -1,0 +1,6 @@
+#gameBoard {
+  text-align: center; /* テキストを中央揃えにする */
+  white-space: pre; /* 空白文字の扱いを変更しない */
+  font-family: monospace; /* 等幅フォントを使用 */
+  color: #f77ca9;
+}
